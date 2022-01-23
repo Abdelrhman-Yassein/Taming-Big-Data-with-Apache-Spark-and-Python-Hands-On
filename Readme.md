@@ -61,7 +61,7 @@ Taming Big Data with Apache Spark and Python - Hands On!
 
 ### Certificate
 [Apache Spark with Scala - Hands On with Big Data ](https://www.udemy.com/certificate/UC-01944601-7834-434d-87d6-8768a53919f6/)
-![certificate](Apache-Spark-with-Scala-Hands-On-with-Big-Data.jpg)
+![certificate](https://github.com/Abdelrhman-Yassein/Taming-Big-Data-with-Apache-Spark-and-Python-Hands-On/blob/main/Apache-Spark-with-Scala-Hands-On-with-Big-Data.jpg)
 
 
 ## Contact
